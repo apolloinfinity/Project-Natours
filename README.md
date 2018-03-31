@@ -1,3 +1,3 @@
 # Project-Natours
 
-Implementing cool CSSS
+Learning some advanced CSS concepts.
